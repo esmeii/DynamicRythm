@@ -1,6 +1,8 @@
 # DynamicRythm
 
-- Selecting a song. you can choose one of the difficulty
+<h3> Rythm game on web screen with JAVA </H3
+
+- <B>Selecting a song. you can choose one of the difficulty</B>
 
 ![image](https://user-images.githubusercontent.com/96706954/156948256-471bdf84-9902-4b97-8f7b-c0ff406155cb.png)
 
